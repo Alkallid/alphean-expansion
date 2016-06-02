@@ -58,9 +58,9 @@ mission "Convo Fed Found"
     on offer
         conversation
             `You arrive at the spaceport, looking for jobs only to find that there's a crowd gathered around the news screens.`
-            `The screens show footage of a group of individuals speaking about how they declare themselves the Federation`
-            `The news reporter's voice can be heard; "The individuals seem to have declared that they are taking control of several Syndicate systems."`
-            `You can't help but think about what happened when the Free Worlds founded. You can only hope that this will go differently.`
+            `The screens show footage of a group of individuals, and a reporter speaking about the oddly militant-looking crowd.`
+            `The news reporter's voice can be heard: "The individuals who have branched away into autonomous rule call themselves the 'Federation,' and seem to be in possession of their own military fleets. They claim that they will use them to take over many Syndicate systems."`
+            `You can't help but think about what happened when the Free Worlds was founded. You can only hope that this will go differently.`
             	decline
 	to complete
 		never
